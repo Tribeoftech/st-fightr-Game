@@ -1,0 +1,19 @@
+{
+  "name": "st-fightr-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tribeoftech/st-fightr-Game.git"
+  },
+  "author": "Alex Dipboye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tribeoftech/st-fightr-Game/issues"
+  },
+  "homepage": "https://github.com/Tribeoftech/st-fightr-Game#readme"
+}
