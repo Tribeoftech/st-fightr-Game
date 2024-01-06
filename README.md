@@ -17,4 +17,5 @@ created using these steps:
 *Adding animations for receiving hits and death
 *Designing and animating the game interface
 *Deploying the game live game
-*Deploy from IDE of choice using the index.html file 
+*Deploy from IDE of choice using the index.html file
+*Once a character has one brower must be refreshed for new game. 
