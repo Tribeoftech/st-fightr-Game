@@ -16,7 +16,5 @@ created using these steps:
 *Coding reactions to sprite attacks
 *Adding animations for receiving hits and death
 *Designing and animating the game interface
-*Deploying the game live
-*Deploying and setting up on firebase
-
-Can be launched from my Website hosted on fire base.
+*Deploying the game live game
+*Deploy from IDE of choice using the index.html file 
