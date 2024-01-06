@@ -1,21 +1,22 @@
 Street Fight Game
-Oriental style
+
 Javascript
+
 
 created using these steps:
 
-*Creating Player and Enemy entities
-*Implementing character movement using Event Listeners
-*Adding attack mechanics
-*Designing and implementing Health Bars for the game interface
-*Incorporating game timers and the Game Over mechanism
-*Introducing background sprites
-*Designing and animating the Shop sprite
-*Creating animations for the Player character: Idle, Run, Jump, and Attack
-*Implementing the Enemy sprite - Kenji
-*Coding reactions to sprite attacks
-*Adding animations for receiving hits and death
-*Designing and animating the game interface
-*Deploying the game live game
-*Deploy from IDE of choice using the index.html file
-*Once a character has one brower must be refreshed for new game. 
+*Creating Player and Enemy entities <br>
+*Implementing character movement using Event Listeners <br>
+*Adding attack mechanics <br>
+*Designing and implementing Health Bars for the game interface <br>
+*Incorporating game timers and the Game Over mechanism <br>
+*Introducing background sprites <br>
+*Designing and animating the Shop sprite <br>
+*Creating animations for the Player character: Idle, Run, Jump, and Attack <br>
+*Implementing the Enemy sprite - Kenji <br>
+*Coding reactions to sprite attacks <br>
+*Adding animations for receiving hits and death <br>
+*Designing and animating the game interface <br>
+*Deploying the game live game <br>
+*Deploy from IDE of choice using the index.html file <br>
+*Once a character has one brower must be refreshed for new game. <br>
