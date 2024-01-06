@@ -13,7 +13,7 @@ const background = new Sprite({
     x: 0,
     y: 0
   },
-  imageSrc: 'public/img/background.png'
+  imageSrc: './img/background.png'
 })
 
 const shop = new Sprite({
@@ -21,7 +21,7 @@ const shop = new Sprite({
     x: 600,
     y: 128
   },
-  imageSrc: 'public/img/shop.png',
+  imageSrc: './img/shop.png',
   scale: 2.75,
   framesMax: 6
 })
@@ -39,7 +39,7 @@ const player = new Fighter({
     x: 0,
     y: 0
   },
-  imageSrc: 'public/img/samuraimack/Idle.png',
+  imageSrc: './img/samuraimack/Idle.png',
   framesMax: 8,
   scale: 2.5,
   offset: {

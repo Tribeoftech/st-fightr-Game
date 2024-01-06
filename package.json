@@ -1,0 +1,11 @@
+{
+  "name": "st-fightr-game",
+  "version": "1.0.0",
+  "description": "Street Fight Game Oriental style Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Dipboye",
+  "license": "ISC"
+}
